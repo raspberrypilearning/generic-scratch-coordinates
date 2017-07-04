@@ -1,9 +1,13 @@
 title: Scratch Coordinates
 hero_image: images/banner.png
-subtitle: ...
-description: Scratch coordinates
+description: Learn about coordinates in Scratch
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "scratch"
 steps:
-  - title: Step one
-    duration: 60
+  - title: Scratch coordinates
