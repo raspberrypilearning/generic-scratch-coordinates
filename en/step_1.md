@@ -12,4 +12,4 @@
 
 + To find out a position on the stage, move your mouse pointer and see the readings change under the bottom-right of the stage.
 
-    ![Coordinate readings](images/coordinates-example.png)
+    ![Coordinate readings](images/coordinates-xy-example.png)
