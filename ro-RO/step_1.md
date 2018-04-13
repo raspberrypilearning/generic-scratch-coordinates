@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Coordonate Scratch
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ În Scratch, coordonatele `x: 0, y: 0` marchează poziția centrală a scenei.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    O poziție ca `x: -200, y: -100` este spre partea din stânga-jos a scenei, iar o poziție ca `x: 200, y: 100` este aproape de partea din dreapta-sus.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Coordonatele scenei](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Puteți vedea și dvs. acest lucru prin adăugarea fundalului **xy-grid** la proiect.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Coordonatele scenei](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ Pentru a afla coordonatele unei anumite poziții, deplasați indicatorul mouse-ului deasupra ei și verificați ce este afișat în colțul din dreapta jos al scenei.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Afișarea coordonatelor](images/coordinates-xy-example.png)
