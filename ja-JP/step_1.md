@@ -1,15 +1,15 @@
-### Scratch coordinates
+### スクラッチ座標
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ スクラッチでは、座標 `x：0、y：0` がステージ上の中心位置を示します。
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    `x：-200、y：-100` のような位置がステージの左下にあり、 `x：200、y：100` のような位置が右上にあります。
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![ステージの座標](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ プロジェクトに **xy-grid** の背景を追加すると、これを自分で見ることができます。
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![ステージの座標](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ 特定の位置の座標を確認するには、マウスポインタをその位置に移動し、ステージの右下隅の読み取り値を確認します。
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![座標の読み](images/coordinates-xy-example.png)
