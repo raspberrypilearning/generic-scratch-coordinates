@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Koordinate praske
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ V Scratchu koordinate `x: 0, y: 0` označijo osrednji položaj na odru.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    Položaj, kot je `x: -200, y: -100` je proti spodnjemu levo na stopnji, položaj blizu `x: 200, y: 100` pa je v zgornjem desnem kotu.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Stage koordinate](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ To si lahko ogledate sami, tako da svojemu projektu dodate **xy-grid** kuliso.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Stage koordinate](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ Če želite izvedeti koordinate določenega položaja, premaknite miškin kazalec na njo in preverite odčitke pod spodnjim desnim kotom faze.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Koordinatni odčitki](images/coordinates-xy-example.png)
