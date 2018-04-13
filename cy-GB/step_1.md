@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Gwasgwch gyfesurynnau
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Yn Scratch, mae'r cyfesurynnau `x: 0, y: 0` yn nodi'r lleoliad canolog ar y Cyfnod.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    Mae sefyllfa fel `x: -200, y: -100` tua'r chwith i'r chwith ar y Cyfnod, ac mae sefyllfa fel `x: 200, y: 100` ger y dde uchaf.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Cyfesurynnau llwyfan](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Gallwch chi weld hyn ar eich cyfer chi trwy ychwanegu'r cefndir **xy-grid** i'ch prosiect.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Cyfesurynnau llwyfan](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ I ddarganfod cydlynu o sefyllfa benodol, symudwch bwyntydd eich llygoden ato a gwirio'r darlleniadau isod yng nghornel dde'r Cam.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Cydlynu darlleniadau](images/coordinates-xy-example.png)
