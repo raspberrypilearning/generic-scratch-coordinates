@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Współrzędne Scratch
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ W Scratch współrzędne `x: 0, y: 0` oznaczają centralną pozycję na stole montażowym.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    Pozycja taka jak `x: -200, y: -100` znajduje się w lewym dolnym rogu stołu montażowego, a pozycja taka jak `x: 200, y: 100` znajduje się w prawym górnym rogu.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Współrzędne sceny](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Możesz to zobaczyć samodzielnie, dodając do projektu **xy-grid** tło.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Współrzędne sceny](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ Aby znaleźć współrzędne określonej pozycji, należy przesunąć na nią wskaźnik myszy i sprawdzić odczyty poniżej dolnego prawego rogu stołu montażowego.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Koordynuj odczyty](images/coordinates-xy-example.png)
