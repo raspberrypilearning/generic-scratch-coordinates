@@ -1,15 +1,15 @@
-### Scratch coordinates
+### مختصات خراش
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ در ابتدا، مختصات `x: 0، y: 0` علامت موقعیت مرکزی در مرحله است.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    یک موقعیت مانند `x: -200، y: -100` به سمت پایین سمت چپ در مرحله است، و موقعیتی مانند `x: 200، y: 100` در سمت راست بالا قرار دارد.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![مختصات مرحله](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ شما می توانید این را برای خودتان با اضافه کردن پس زمینه **xy-grid** به پروژه خود مشاهده کنید.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![مختصات مرحله](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ برای پیدا کردن مختصات یک موقعیت خاص، اشارهگر ماوس خود را به آن حرکت دهید و قرائتهای زیر گوشه پایین سمت راست صحنه را بررسی کنید.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![خواندن مختصات](images/coordinates-xy-example.png)
