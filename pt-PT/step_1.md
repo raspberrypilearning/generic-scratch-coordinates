@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Coordenadas de rascunho
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Em Scratch, as coordenadas `x: 0, y: 0` marcam a posição central no palco.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    Uma posição como `x: -200, y: -100` é para o canto inferior esquerdo no palco, e uma posição como `x: 200, y: 100` está perto da parte superior direita.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Coordenadas do palco](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Você pode ver isso por si mesmo adicionando o pano de fundo **xy-grid** ao seu projeto.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Coordenadas do palco](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ Para descobrir as coordenadas de uma posição específica, mova o ponteiro do mouse para ele e verifique as leituras abaixo do canto inferior direito do palco.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Coordenar leituras](images/coordinates-xy-example.png)
