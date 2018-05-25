@@ -1,15 +1,15 @@
 ---
-title: مختصات خراش
-hero_image: images / banner.png
-description: در مورد مختصات در ابتدا یاد بگیرید
-original_url: ""
-theme: نمونه اولیه cc
+title: مختصات اسکرچ
+hero_image: images/banner.png
+description: درباره‌ی مختصات در اسکرچ یاد بگیرید
+original_url:
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "خراش"
+technologies: "scratch"
 steps:
   - 
-    title: مختصات خراش
+    title: مختصات اسکرچ
