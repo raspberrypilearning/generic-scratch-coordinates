@@ -1,15 +1,15 @@
 ---
-title: スクラッチ座標
-hero_image: images / banner.png
+title: スクラッチの座標
+hero_image: images/banner.png
 description: スクラッチの座標について学ぶ
-original_url: ""
+original_url:
 theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "スクラッチ"
+technologies: "scratch"
 steps:
   - 
-    title: スクラッチ座標
+    title: スクラッチの座標
