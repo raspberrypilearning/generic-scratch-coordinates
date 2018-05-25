@@ -1,15 +1,15 @@
-### Koordinat gores
+### Koordinat Scratch
 
-+ Dalam Scratch, koordinat `x: 0, y: 0` menandai posisi sentral pada Stage.
++ Dalam Scratch, koordinat `x: 0, y: 0` menandai posisi tengah pada Stage.
     
-    Posisi seperti `x: -200, y: -100` mengarah ke kiri bawah di Stage, dan posisi seperti `x: 200, y: 100` berada di dekat kanan atas.
+    Posisi seperti `x: -200, y: -100` mengarah ke bagian kiri bawah pada Stage, dan posisi seperti `x: 200, y: 100` berada di dekat kanan atas.
     
-    ![Koordinat panggung](images/coordinates-stage.png)
+    ![Koordinat Stage](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Kamu dapat melihatnya sendiri dengan menambahkan latar **xy-grid** ke proyek mu.
     
-    ![Koordinat panggung](images/coordinates-backdrop.png)
+    ![Koordinat Stage](images/coordinates-backdrop.png)
 
-+ Untuk mengetahui koordinat posisi tertentu, gerakkan penunjuk mouse Anda ke sana dan periksa bacaan di bawah sudut kanan bawah Panggung.
++ Untuk mengetahui posisi tertentu dari koordinat, gerakkan pointer mouse Kamu ke posisi tersebut dan periksa bacaan di sudut bawah kanan bawah Stage.
     
-    ![Bacaan koordinat](images/coordinates-xy-example.png)
+    ![Coordinate readings](images/coordinates-xy-example.png)
