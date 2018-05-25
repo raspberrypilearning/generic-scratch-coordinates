@@ -6,7 +6,7 @@
     
     ![Stage coordinates](images/coordinates-stage.png)
 
-+ Du kannst das selbst sehen, indem du den Hintergrund **xy-grid** zu deinem Projekt hinzufügst.
++ Du kannst das selbst sehen, indem du das Bühnenbild **xy-grid** zu deinem Projekt hinzufügst.
     
     ![Stage coordinates](images/coordinates-backdrop.png)
 
