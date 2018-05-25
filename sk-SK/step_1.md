@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Scratch súradnice
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ V súbore Scratch súradnice `x: 0, y: 0` označujú stredovú pozíciu na scéne.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    Pozícia ako `x: -200, y: -100` je smerom doľava dole na scéne a poloha ako `x: 200, y: 100` je v pravom hornom rohu.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Súradnice súradníc](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Môžete to vidieť sami tým, že do projektu pripojíte **xy-grid**.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Súradnice súradníc](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ Ak chcete zistiť súradnice konkrétnej pozície, presuňte ukazovateľ myši na ňu a skontrolujte údaje v pravom dolnom rohu plochy.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Čítanie súradníc](images/coordinates-xy-example.png)
