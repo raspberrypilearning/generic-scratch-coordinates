@@ -1,4 +1,4 @@
-### Scratch coordinates
+### Scratch निर्देशांक
 
 + In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
     
