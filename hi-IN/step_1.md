@@ -2,7 +2,7 @@
 
 + Scratch में, निर्देशांक `x:0, y:0`, मंच पर केंद्रीय स्थिति बताता है ।
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    एक स्थिति जैसे `x:-200, y:-100` मंच के नीचे बाएँ की ओर है तथा एक स्थिति जैसे `x:200, y:100` मंच के ऊपर दांए की ओर हैं ।
     
     ![Stage coordinates](images/coordinates-stage.png)
 
