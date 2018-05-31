@@ -1,6 +1,6 @@
 ### Scratch निर्देशांक
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ Scratch में, निर्देशांक `x:0, y:0`, मंच पर केंद्रीय स्थिति बताता है ।
     
     A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
     
