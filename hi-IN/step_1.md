@@ -6,7 +6,7 @@
     
     ![Stage coordinates](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ आप इसे **xy-grid** पृष्ठभूमि को जोड़ कर स्वयं देख सकते है ।
     
     ![Stage coordinates](images/coordinates-backdrop.png)
 
