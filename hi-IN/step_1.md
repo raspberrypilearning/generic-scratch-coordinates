@@ -4,12 +4,12 @@
     
     एक स्थिति जैसे `x:-200, y:-100` मंच के नीचे बाएँ की ओर है तथा एक स्थिति जैसे `x:200, y:100` मंच के ऊपर दांए की ओर हैं ।
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![मंच निर्देशांक](images/coordinates-stage.png)
 
 + आप इसे **xy-grid** पृष्ठभूमि को जोड़ कर स्वयं देख सकते है ।
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![मंच निर्देशांक](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ एक स्थिति का निर्देशांक ढूँढ़ने के लिए, अपने माउस को स्थिति की ओर बढाईये तथा मंच के नीचे दाएं ओर लिखे गए अंको को पढ़िए ।
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![निर्देशांक अंक](images/coordinates-xy-example.png)
