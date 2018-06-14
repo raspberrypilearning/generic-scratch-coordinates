@@ -1,12 +1,12 @@
-### Gwasgwch gyfesurynnau
+### Cyfesurynnau Scratch
 
-+ Yn Scratch, mae'r cyfesurynnau `x: 0, y: 0` yn nodi'r lleoliad canolog ar y Cyfnod.
++ Yn Scratch, mae'r cyfesurynnau `x:0, y:0` yn nodi'r lleoliad canolog ar y Llwyfan.
     
-    Mae sefyllfa fel `x: -200, y: -100` tua'r chwith i'r chwith ar y Cyfnod, ac mae sefyllfa fel `x: 200, y: 100` ger y dde uchaf.
+    Mae lleoliad fel `x:-200, y:-100` ger cornel chwith isaf y Llwyfan, ac mae lleoliad fel `x:200, y:100` ger y dde uchaf.
     
     ![Cyfesurynnau llwyfan](images/coordinates-stage.png)
 
-+ Gallwch chi weld hyn ar eich cyfer chi trwy ychwanegu'r cefndir **xy-grid** i'ch prosiect.
++ Gallwch weld hyn eich hunan gan ychwanegu'r cefndir **xy-grid** i'ch prosiect.
     
     ![Cyfesurynnau llwyfan](images/coordinates-backdrop.png)
 
