@@ -10,6 +10,6 @@
     
     ![Cyfesurynnau llwyfan](images/coordinates-backdrop.png)
 
-+ I ddarganfod cydlynu o sefyllfa benodol, symudwch bwyntydd eich llygoden ato a gwirio'r darlleniadau isod yng nghornel dde'r Cam.
++ I weld cyfesurynnau lleoliad penodol, symudwch bwyntydd eich llygoden ato a gwirio'r darlleniadau islaw cornel dde isaf y Llwyfan.
     
-    ![Cydlynu darlleniadau](images/coordinates-xy-example.png)
+    ![Darlleniadau'r cyfesurynnau](images/coordinates-xy-example.png)
