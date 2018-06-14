@@ -1,15 +1,15 @@
 ---
-title: Gwasgwch gyfesurynnau
-hero_image: delweddau / banner.png
-description: Dysgwch am gydlynu yn Scratch
+title: Cyfesurynnau Scratch
+hero_image: images/banner.png
+description: Dysgu am gyfesurynnau yn Scratch
 original_url:
-theme: cc-prototeip
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "crafu"
+technologies: "scratch"
 steps:
   - 
-    title: Gwasgwch gyfesurynnau
+    title: Cyfesurynnau Scratch
