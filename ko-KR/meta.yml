@@ -1,7 +1,7 @@
 ---
 title: 스크래치 좌표
 hero_image: images / banner.png
-description: Scratch의 좌표에 대해 알아보기
+description: 스크래치의 좌표에 대해 알아보기
 original_url:
 theme: cc-prototype
 duration: 1
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "할퀴다"
+technologies: "스크래치"
 steps:
   - 
     title: 스크래치 좌표
