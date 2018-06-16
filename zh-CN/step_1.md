@@ -6,10 +6,10 @@
     
     ![舞台坐标](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ 你可以通过添加**xy-grid**到项目中来查看
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![舞台坐标](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ 要找出某个对象的特定位置的坐标，移动鼠标指针到它身上，查看在舞台窗口右下角的读数。
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![坐标读数](images/coordinates-xy-example.png)
