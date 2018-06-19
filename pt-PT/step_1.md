@@ -1,4 +1,4 @@
-### Coordenadas de rascunho
+### Coordenadas no Scratch
 
 + Em Scratch, as coordenadas `x: 0, y: 0` marcam a posição central no palco.
     
@@ -10,6 +10,6 @@
     
     ![Coordenadas do palco](images/coordinates-backdrop.png)
 
-+ Para descobrir as coordenadas de uma posição específica, mova o ponteiro do mouse para ele e verifique as leituras abaixo do canto inferior direito do palco.
++ Para descobrir as coordenadas de uma posição específica, mova o ponteiro do mouse para ela e verifique as leituras abaixo do canto inferior direito do palco.
     
     ![Coordenar leituras](images/coordinates-xy-example.png)
