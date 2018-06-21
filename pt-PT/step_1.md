@@ -2,7 +2,7 @@
 
 + No Scratch, as coordenadas `x: 0, y: 0` marcam a posição central no palco.
     
-    Uma posição do tipo `x: -200, y: -100` é para a regiāo inferior esquerda no palco, e uma posição como `x: 200, y: 100` está perto da parte superior direita.
+    Uma posição do tipo `x: -200, y: -100` fica na regiāo inferior esquerda do palco, e uma posição como `x: 200, y: 100` está perto da parte superior direita.
     
     ![Coordenadas do palco](images/coordinates-stage.png)
 
