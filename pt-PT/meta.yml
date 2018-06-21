@@ -1,9 +1,9 @@
 ---
-title: Coordenadas no Scratch
-hero_image: images / banner.png
-description: Saiba mais sobre coordenadas no Scratch
+title: Coordenadas do Scratch
+hero_image: images/banner.png
+description: Aprende acerca das coordenadas no Scratch
 original_url:
-theme: protótipo cc
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: "scratch"
 steps:
   - 
-    title: Coordenadas no Scratch
+    title: Coordenadas do Scratch
