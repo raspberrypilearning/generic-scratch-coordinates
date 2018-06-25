@@ -6,10 +6,10 @@
     
     ![Coordonnées de la scène](images/coordinates-stage.png)
 
-+ Vous pouvez le voir par vous-même en ajoutant le **xy-grid** toile de fond à votre projet.
++ Tu peux le voir par toi-même en ajoutant le **xy-grid** toile de fond à votre projet.
     
     ![Coordonnées de la scène](images/coordinates-backdrop.png)
 
-+ Pour trouver les coordonnées d'une position spécifique, déplacez le pointeur de la souris vers celle-ci et vérifiez les mesures situées en bas à droite de la scène.
++ Pour trouver les coordonnées d'une position spécifique, déplace le pointeur de la souris vers celle-ci et vérifie les mesures situées en bas à droite de la scène.
     
     ![Lecture des coordonnées](images/coordinates-xy-example.png)
