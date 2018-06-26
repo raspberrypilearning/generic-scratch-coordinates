@@ -1,15 +1,15 @@
 ---
-title: Царапины
-hero_image: Изображения / banner.png
-description: Узнайте о координатах в Scratch
+title: Координаты Scratch
+hero_image: images/banner.png
+description: Узнай о координатах в Scratch
 original_url:
-theme: куб.см-прототип
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "царапина"
+technologies: "scratch"
 steps:
   - 
-    title: Царапины
+    title: Координаты Scratch
