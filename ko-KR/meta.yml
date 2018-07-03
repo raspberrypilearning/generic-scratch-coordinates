@@ -1,7 +1,7 @@
 ---
-title: إحداثيات Scratch
+title: 스크래치 좌표
 hero_image: images/banner.png
-description: تعرَّف على الإحداثيات في Scratch
+description: 스크래치의 좌표에 대해 알아보기
 original_url:
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "scratch"
 steps:
-  - title: إحداثيات Scratch
+  - title: 스크래치 좌표
