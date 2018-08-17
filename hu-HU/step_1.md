@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Karcázási koordináták
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ A Scratch, a koordinátákat `x: 0, y: 0` jelet a központi pozícióját a Stage.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    A pozíció, mint `x: -200, y: -100` , a bal alsó részen, a `x: 200, y: 100` pozícióban van a jobb felső sarokban.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Stage koordináták](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Ezt saját magaddal láthatja, ha hozzáadja a **xy-grid** hátteret a projekthez.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Stage koordináták](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ Egy adott pozíció koordinátáinak megismeréséhez mozgassa az egérmutatót, és ellenőrizze a leolvasásokat a szakasz jobb alsó sarkában.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Koordinátaértékek](images/coordinates-xy-example.png)
