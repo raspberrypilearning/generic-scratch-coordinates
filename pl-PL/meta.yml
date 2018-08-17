@@ -1,15 +1,15 @@
 ---
-title: Współrzędne Scratch
-hero_image: images / banner.png
-description: Dowiedz się więcej o współrzędnych w Scratch
+title: Współrzędne w Scratchu
+hero_image: images/banner.png
+description: Dowiedz się więcej o współrzędnych w Scratchu
 original_url:
-theme: prototyp cc
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "zadraśnięcie"
+technologies: "scratch"
 steps:
   - 
-    title: Współrzędne Scratch
+    title: Współrzędne w Scratchu
