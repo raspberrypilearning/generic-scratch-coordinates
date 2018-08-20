@@ -10,6 +10,6 @@
     
     ![Współrzędne sceny](images/coordinates-backdrop.png)
 
-+ Aby znaleźć współrzędne określonej pozycji, należy przesunąć na nią wskaźnik myszy i sprawdzić odczyty poniżej dolnego prawego rogu sceny.
++ Aby znaleźć współrzędne określonej pozycji, należy przesunąć na nią wskaźnik myszy i sprawdzić odczyty poniżej prawego dolnego rogu sceny.
     
     ![Odczyty współrzędnych](images/coordinates-xy-example.png)
