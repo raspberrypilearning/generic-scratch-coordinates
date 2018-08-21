@@ -1,15 +1,15 @@
-### Scratch coordinates
+### Skrape koordinater
 
-+ In Scratch, the coordinates `x:0, y:0` mark the central position on the Stage.
++ I skrape markerer koordinatene `x: 0, y: 0` den sentrale posisjonen på scenen.
     
-    A position like `x:-200, y:-100` is towards the bottom left on the Stage, and a position like `x:200, y:100` is near the top right.
+    En posisjon som `x: -200, y: -100` er nederst til venstre på scenen, og en posisjon som `x: 200, y: 100` er nær øverst til høyre.
     
-    ![Stage coordinates](images/coordinates-stage.png)
+    ![Stage koordinater](images/coordinates-stage.png)
 
-+ You can see this for yourself by adding the **xy-grid** backdrop to your project.
++ Du kan se dette selv ved å legge til **xy-grid** bakgrunnen til prosjektet ditt.
     
-    ![Stage coordinates](images/coordinates-backdrop.png)
+    ![Stage koordinater](images/coordinates-backdrop.png)
 
-+ To find out coordinates of a specific position, move your mouse pointer to it and check the readings below the bottom right corner of the Stage.
++ For å finne ut koordinater av en bestemt posisjon, flytt musepekeren til den og kontroller lesingene under nederste høyre hjørne av scenen.
     
-    ![Coordinate readings](images/coordinates-xy-example.png)
+    ![Koordinere avlesninger](images/coordinates-xy-example.png)
