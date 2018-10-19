@@ -1,15 +1,15 @@
 ---
-title: Raaputuskoordinaatit
-hero_image: Kuvien / banner.png
-description: Opi koordinaateista tyhjästä
+title: Scratch koordinaatit
+hero_image: images/banner.png
+description: Opi koordinaateista Scratchissa
 original_url:
-theme: CC-prototyyppi
+theme: cc-prototyyppi
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "naarmu"
+technologies: "scratch"
 steps:
   - 
-    title: Raaputuskoordinaatit
+    title: Scratch koordinaatit
