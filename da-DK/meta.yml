@@ -1,6 +1,6 @@
 ---
-title: Ridsekoordinater
-hero_image: images / banner.png
+title: Scratch-koordinater
+hero_image: images/banner.png
 description: Lær om koordinater i Scratch
 original_url:
 theme: cc-prototype
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "kradse"
+technologies: "scratch"
 steps:
   - 
-    title: Ridsekoordinater
+    title: Scratch-koordinater
