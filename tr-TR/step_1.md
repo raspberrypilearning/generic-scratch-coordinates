@@ -1,15 +1,15 @@
 ### Scratch koordinatları
 
-+ Scratch'ta, `x: 0, y: 0` koordinatları, Sahne Alanı üzerindeki merkezi konumu işaretler.
++ Scratch'ta, `x:0, y:0`, sahnenin merkez koordinatlarını gösterir.
     
-    `x: -200, y: -100` gibi bir konum, Sahne Alanı'nın sol alt köşesine doğru ve `x: 200, y: 100` gibi bir konum sağ üst tarafa doğrudur.
+    `x:-200, y:-100` gibi bir konum, sahnenin sol alt köşesine; `x:200, y:100` gibi bir konum ise sağ üst tarafa yakındır.
     
     ![Sahne koordinatları](images/coordinates-stage.png)
 
-+ Projenize **xy-grid** zemini ekleyerek bunu kendiniz görebilirsiniz.
++ Projenize **xy-grid** dekoru ekleyerek bunu kendiniz görebilirsiniz.
     
     ![Sahne koordinatları](images/coordinates-backdrop.png)
 
-+ Belirli bir konumun koordinatlarını bulmak için, fare imlecinizi hareket ettirin ve Sahne Alanı'nın sağ alt köşesinin altındaki okumaları kontrol edin.
++ Belirli bir konumun koordinatlarını bulmak için, fare imlecini hareket ettirin ve sahnenin sağ alt köşesinin altındaki rakamları izleyin.
     
-    ![Koordinat okumaları](images/coordinates-xy-example.png)
+    ![Koordinat değerleri](images/coordinates-xy-example.png)
