@@ -6,7 +6,7 @@
     
     ![Coordonnées de la scène](images/coordinates-stage.png)
 
-+ Tu peux le voir par toi-même en ajoutant le **xy-grid** toile de fond à votre projet.
++ Tu peux le voir par toi-même en ajoutant le **xy-grid** toile de fond à ton projet.
     
     ![Coordonnées de la scène](images/coordinates-backdrop.png)
 
