@@ -1,15 +1,15 @@
 ---
 title: Scratch koordinatları
-hero_image: images / banner.png
-description: Scratch'deki koordinatlar hakkında bilgi edinin
+hero_image: images/banner.png
+description: Scratch'teki koordinatlar hakkında bilgi edinin
 original_url:
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "çizik"
+technologies: "scratch"
 steps:
   - 
     title: Scratch koordinatları
